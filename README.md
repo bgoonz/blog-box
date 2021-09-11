@@ -4,6 +4,7 @@
   <p align="center">📝 Update a pinned gist to show your latest dev.to blog post</p>
 </p>
 
+[![Update gist with latest post](https://github.com/bgoonz/blog-box/actions/workflows/update.yml/badge.svg)](https://github.com/bgoonz/blog-box/actions/workflows/update.yml)
 ---
 
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
